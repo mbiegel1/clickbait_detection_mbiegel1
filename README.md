@@ -1,4 +1,4 @@
-# CLickbait Detection
+# Clickbait Detection
 ### Detecting Clickbait among news sites and YouTube videos using supervised machine learning
 #### CMCS 478 Project
 
